@@ -1,4 +1,4 @@
-# State-of-charge-estimation
+# State-of-charge-estimation (using EKF)
 
 
 In this work, using Extended Kalman Filter (state estimator for non-linear models) the state of charge of an EV battery is estimated. From the obtained results, the driving range available for the EV is also predicted.
